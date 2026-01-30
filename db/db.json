@@ -1,0 +1,411 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "luffy",
+        "profilePic": "/src/assets/profile_pics/luffy.png"
+      },
+      "image": "src/assets/post_images/luffy.jpg",
+      "caption": "I'm gonna be the Pirate King! 🏴‍☠",
+      "likes": 1500,
+      "comments": [
+        {
+          "user": "zoro",
+          "comment": "Don't forget to train, captain."
+        },
+        {
+          "user": "nami",
+          "comment": "And don't lose the map!"
+        }
+      ],
+      "timestamp": "2025-08-11T10:15:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "zoro",
+        "profilePic": "/src/assets/profile_pics/zoro.jpg"
+      },
+      "image": "/src/assets/post_images/zoro.jpg",
+      "caption": "Three swords, one destiny. ⚔",
+      "likes": 981,
+      "comments": [
+        {
+          "user": "sanji",
+          "comment": "Still can't cook though."
+        },
+        {
+          "user": "luffy",
+          "comment": "Zoro! Wrong direction again!"
+        }
+      ],
+      "timestamp": "2025-08-10T15:20:00Z",
+      "liked": true
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "sanji",
+        "profilePic": "/src/assets/profile_pics/sanji.jpg"
+      },
+      "image": "/src/assets/post_images/sanji.png",
+      "caption": "Cooking up love and delicious food. 🍜❤",
+      "likes": 1320,
+      "comments": [
+        {
+          "user": "nami",
+          "comment": "Best chef ever!"
+        },
+        {
+          "user": "zoro",
+          "comment": "Food's okay, eyebrow boy."
+        }
+      ],
+      "timestamp": "2025-08-09T08:45:00Z"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "usopp",
+        "profilePic": "/src/assets/profile_pics/usopp.jpg"
+      },
+      "image": "src/assets/post_images/usopp.jpg",
+      "caption": "The brave warrior of the sea! 🏹",
+      "likes": 750,
+      "comments": [
+        {
+          "user": "chopper",
+          "comment": "You're amazing, Usopp!"
+        },
+        {
+          "user": "luffy",
+          "comment": "Tell us another story!"
+        }
+      ],
+      "timestamp": "2025-08-08T14:00:00Z"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 105,
+        "username": "nami",
+        "profilePic": "/src/assets/profile_pics/nami.jpg"
+      },
+      "image": "/src/assets/post_images/nami.jpg",
+      "caption": "Treasure maps and tangerines. 🍊",
+      "likes": 1650,
+      "comments": [
+        {
+          "user": "sanji",
+          "comment": "Anything for you, Nami-swan!"
+        },
+        {
+          "user": "luffy",
+          "comment": "When's the next island?"
+        }
+      ],
+      "timestamp": "2025-08-07T18:10:00Z"
+    },
+    {
+      "id": "6",
+      "user": {
+        "id": 106,
+        "username": "chopper",
+        "profilePic": "/src/assets/profile_pics/chopper.jpg"
+      },
+      "image": "/src/assets/post_images/chopper.jpg",
+      "caption": "Doctor of the Straw Hats! 🐾",
+      "likes": 1400,
+      "comments": [
+        {
+          "user": "usopp",
+          "comment": "Best reindeer ever!"
+        },
+        {
+          "user": "luffy",
+          "comment": "Chopper! Transform!"
+        }
+      ],
+      "timestamp": "2025-08-06T11:25:00Z"
+    },
+    {
+      "id": "7",
+      "user": {
+        "id": 107,
+        "username": "franky",
+        "profilePic": "/src/assets/profile_pics/franky.jpg"
+      },
+      "image": "/src/assets/post_images/franky.jpg",
+      "caption": "SUPER shipwright! 🚢",
+      "likes": 900,
+      "comments": [
+        {
+          "user": "brook",
+          "comment": "Yohoho! Nice work!"
+        },
+        {
+          "user": "luffy",
+          "comment": "The Sunny is the best!"
+        }
+      ],
+      "timestamp": "2025-08-05T09:40:00Z"
+    },
+    {
+      "id": "8",
+      "user": {
+        "id": 108,
+        "username": "brook",
+        "profilePic": "/src/assets/profile_pics/brook.jpg"
+      },
+      "image": "/src/assets/post_images/brook.jpg",
+      "caption": "Yohohoho! May I see your panties? 🎻💀",
+      "likes": 1200,
+      "comments": [
+        {
+          "user": "nami",
+          "comment": "BROOK!"
+        },
+        {
+          "user": "franky",
+          "comment": "Cool song, though."
+        }
+      ],
+      "timestamp": "2025-08-04T17:50:00Z"
+    },
+    {
+      "id": "9",
+      "user": {
+        "id": 109,
+        "username": "jinbei",
+        "profilePic": "/src/assets/profile_pics/jinbei.jpg"
+      },
+      "image": "/src/assets/post_images/jinbei.jpg",
+      "caption": "The sea is our ally. 🌊",
+      "likes": 880,
+      "comments": [
+        {
+          "user": "luffy",
+          "comment": "Glad you're with us, Jinbei!"
+        },
+        {
+          "user": "zoro",
+          "comment": "Strongest fishman!"
+        }
+      ],
+      "timestamp": "2025-08-03T20:30:00Z"
+    },
+    {
+      "id": "10",
+      "user": {
+        "id": 110,
+        "username": "ace",
+        "profilePic": "/src/assets/profile_pics/ace.jpg"
+      },
+      "image": "/src/assets/post_images/ace.jpg",
+      "caption": "The fire burns bright. 🔥",
+      "likes": 2100,
+      "comments": [
+        {
+          "user": "sabo",
+          "comment": "Miss you, brother."
+        },
+        {
+          "user": "luffy",
+          "comment": "I'll never forget!"
+        }
+      ],
+      "timestamp": "2025-08-02T12:15:00Z"
+    },
+    {
+      "id": "11",
+      "user": {
+        "id": 111,
+        "username": "sabo",
+        "profilePic": "/src/assets/profile_pics/sabo.jpg"
+      },
+      "image": "/src/assets/post_images/sabo.jpg",
+      "caption": "Freedom is everything. 🗽",
+      "likes": 1300,
+      "liked": false,
+      "comments": [
+        {
+          "user": "ace",
+          "comment": "We'll meet again."
+        },
+        {
+          "user": "luffy",
+          "comment": "I'm glad you're alive!"
+        }
+      ],
+      "timestamp": "2025-08-01T16:00:00Z"
+    },
+    {
+      "id": "12",
+      "user": {
+        "id": 112,
+        "username": "robin",
+        "profilePic": "/src/assets/profile_pics/robin.jpg"
+      },
+      "image": "/src/assets/post_images/robin.jpg",
+      "caption": "Knowledge is the true treasure. 📚",
+      "likes": 1250,
+      "liked": false,
+      "comments": [
+        {
+          "user": "nami",
+          "comment": "Always so mysterious, Robin."
+        },
+        {
+          "user": "luffy",
+          "comment": "Tell me another story about ancient times!"
+        }
+      ],
+      "timestamp": "2025-08-01T10:00:00Z"
+    }
+  ],
+  "profile": [
+    {
+      "id": "1",
+      "username": "luffy",
+      "profilePic": "src/assets/profile_pics/luffy.png",
+      "followers": 1200,
+      "following": 300,
+      "bio": "i'm gonna be king of the pirate"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "from": "Zoro",
+      "to": "Luffy",
+      "text": "Train harder captain!"
+    },
+    {
+      "id": "2",
+      "from": "Nami",
+      "to": "Luffy",
+      "text": "Where’s my money?"
+    },
+    {
+      "id": "3",
+      "from": "Sanji",
+      "to": "Nami",
+      "text": "Dinner’s ready, my love ❤️"
+    },
+    {
+      "id": "4",
+      "from": "Usopp",
+      "to": "Chopper",
+      "text": "Want to hear my new tall tale?"
+    },
+    {
+      "id": "5",
+      "from": "Chopper",
+      "to": "Usopp",
+      "text": "Really? That’s amazing!!"
+    },
+    {
+      "id": "6",
+      "from": "Robin",
+      "to": "Luffy",
+      "text": "Be careful, the enemy is tricky."
+    },
+    {
+      "id": "7",
+      "from": "Franky",
+      "to": "Luffy",
+      "text": "The Sunny is SUPER fixed!"
+    },
+    {
+      "id": "8",
+      "from": "Brook",
+      "to": "Nami",
+      "text": "May I see your panties? Yohohoho 🎶"
+    },
+    {
+      "id": "9",
+      "from": "Jinbe",
+      "to": "Luffy",
+      "text": "I’ll always be by your side, captain."
+    },
+    {
+      "id": "10",
+      "from": "Luffy",
+      "to": "All",
+      "text": "Let’s go find the One Piece!!!"
+    },
+    {
+      "id": "c09c",
+      "from": "Luffy",
+      "to": "Sanji",
+      "text": "i'm hungry"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "1",
+      "user": "Zoro",
+      "action": "liked your post",
+      "profilePic": "/src/assets/profile_pics/zoro.jpg"
+    },
+    {
+      "id": "2",
+      "user": "Nami",
+      "action": "started following you",
+      "profilePic": "/src/assets/profile_pics/nami.jpg"
+    },
+    {
+      "id": "3",
+      "user": "Sanji",
+      "action": "commented: 'Great job, captain!'",
+      "profilePic": "/src/assets/profile_pics/sanji.jpg"
+    },
+    {
+      "id": "4",
+      "user": "Usopp",
+      "action": "shared your story",
+      "profilePic": "/src/assets/profile_pics/usopp.jpg"
+    },
+    {
+      "id": "5",
+      "user": "Chopper",
+      "action": "mentioned you in a comment",
+      "profilePic": "/src/assets/profile_pics/chopper.jpg"
+    },
+    {
+      "id": "6",
+      "user": "Robin",
+      "action": "liked your reel",
+      "profilePic": "/src/assets/profile_pics/robin.jpg"
+    },
+    {
+      "id": "7",
+      "user": "Franky",
+      "action": "tagged you in a post",
+      "profilePic": "/src/assets/profile_pics/franky.jpg"
+    },
+    {
+      "id": "8",
+      "user": "Brook",
+      "action": "started following you",
+      "profilePic": "/src/assets/profile_pics/brook.jpg"
+    },
+    {
+      "id": "9",
+      "user": "Jinbe",
+      "action": "reacted to your story",
+      "profilePic": "/src/assets/profile_pics/jinbei.jpg"
+    },
+    {
+      "id": "10",
+      "user": "Ace",
+      "action": "liked your post",
+      "profilePic": "/src/assets/profile_pics/ace.jpg"
+    }
+  ]
+}
